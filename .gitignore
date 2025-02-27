@@ -1,0 +1,7 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/CppTraining/CppTraining/x64/Debug
+/CppTraining/x64/Debug
+/CppTraining/.vs/CppTraining/FileContentIndex
