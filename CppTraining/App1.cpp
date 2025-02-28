@@ -1,7 +1,10 @@
-#include <iostream>
+//Simple Hello World function
 
-int main()
+#include <iostream>
+#include "Definitions.h"
+
+int helloWorld()
 {
-	std::cout << "Hello world!";
+	std::cout << "Hello world!" << std::endl;
 	return 0;
 }
